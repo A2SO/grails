@@ -1,5 +1,5 @@
 
-function cogerRes(frm) {
+function recogerRes(frm) {
   contrasena = frm.pwd.value;
   apellidos = frm.apellidos.value;
   nombre = frm.nombre.value;
