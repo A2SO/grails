@@ -38,7 +38,7 @@
     <label for="pwd">Password:</label>
     <input type="password" name="pwd" class="form-control" id="pwd">
   </div>
-  <button type="button" class="btn btn-default" onclick="cogerRes(this.form)" >Submit</button>
+  <button type="button" class="btn btn-default" onclick="recogerRes(this.form)" >Submit</button>
 </form>
       </div>
     <asset:javascript src="application.js"/>
